@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Takumi-Navri-Tokita/Takumi-Navri-Tokita/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Takumi-Navri-Tokita/Takumi-Navri-Tokita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
