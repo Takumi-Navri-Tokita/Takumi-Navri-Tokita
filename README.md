@@ -4,13 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DEADFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+me+chamo+Takumi+"Navri"+Tokita;0+"Navri"+não+faz+parte+de+meu+nome+real;mas+sim+do+meu+planeta;utilizado+para+melhor+indentificação.;No+momento+trabalho+com+a;Elhon+"Navri"+Neptunia;do+mesmo+planeta+que+eu;mas+ela+não+tem+github+no+momento.;Seja+Bem+Vindo!:%29)](https://git.io/typing-svg)
 
+<div align="center"><img src="https://img.itch.zone/aW1nLzk5Mjc0MjEuZ2lm/original/OiGMDJ.gif"></div>
 <br>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Takumi-Navri-Tokita&theme=D9CD30&hide_border=true&area=true)
 
 <br>
-
-<center><img src="https://img.itch.zone/aW1nLzk5Mjc0MjEuZ2lm/original/OiGMDJ.gif"></center>
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
